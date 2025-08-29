@@ -1,0 +1,207 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #660033; /* dark maroon background */
+    }
+    .inner
+    {
+        background-color: #fff;
+        padding: 10px;
+    }
+    .txt{
+text-align: center;
+color: white;
+margin-left: 10px;
+text-align: left;
+    }
+    .container {
+      width: 650px;
+      margin: 50px auto;
+      background-color: #990a52;
+      padding: 10px;
+     
+    }
+    .header {
+      text-align:left;
+      background-color: #fff;
+      margin-bottom: 0;
+      padding: 10px;
+    }
+    .header img {
+      max-width: 200px;
+      padding: 10px;
+    }
+    .header span
+    {
+        font-weight: bold;
+      font-size: 14px;
+      color: #000;
+      margin-top: 30px;
+    }
+    .date {
+      text-align: right;
+      font-size: 12px;
+      color: black;
+    }
+   
+    .banner img {
+      width: 100%;
+      height: auto;
+    }
+    .content {
+      font-size: 14px;
+      background-color: #fff;
+      color: black;
+      line-height: 1.6;
+      padding: 10px;
+    }
+    .content strong {
+      color:black;
+    }
+    .offers-section {
+      width: 600px;
+      margin: auto;
+     
+      padding: 10px;
+    }
+    .offers-header {
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      color: #333;
+    }
+    .from-city {
+      background: #660033;
+      color: #fff;
+      padding: 6px 10px;
+      font-size: 14px;
+      font-weight: bold;
+    }
+    .offers-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      margin-top: 15px;
+      padding: 10px;
+    }
+    .offer-box {
+      border-top: 2px solid #660033;
+      padding: 10px 0;
+      font-size: 14px;
+      display: flex;
+      align-items: flex-start;
+      padding: 10px;
+    }
+  
+    .offer-content h4 {
+      margin: 0;
+      color: #660033;
+      font-size: 15px;
+      font-weight: bold;
+    }
+    .offer-content p {
+      margin: 4px 0 0;
+      font-size: 13px;
+      color: #555;
+    }
+    .offer-content p span {
+      font-weight: bold;
+      font-size: 14px;
+      color: #000;
+    }
+    .terms {
+      font-size: 12px;
+      color: black;
+      margin-top: 10px;
+    }
+ .student-offer {
+      width: 600px;
+      margin: auto;
+     
+    }
+    .student-header {
+      background: #888;
+      color: #fff;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 8px 10px;
+      text-transform: uppercase;
+    }
+    .student-content {
+      display: flex;
+      align-items: flex-start;
+      padding: 15px;
+    }
+    .student-content img {
+      max-width: 160px;
+      height: auto;
+      margin-right: 15px;
+    }
+    .student-text {
+      flex: 1;
+    }
+    .student-text h3 {
+      margin: 0;
+      font-size: 15px;
+      font-weight: bold;
+      color: #660033;
+    }
+    .student-text p {
+      margin: 5px 0;
+      font-size: 13px;
+      color: #333;
+      line-height: 1.5;
+    }
+    .student-text p strong {
+      font-weight: bold;
+    }
+    .student-text a {
+      font-size: 13px;
+      color: #660033;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .student-text a img {
+      vertical-align: middle;
+      margin-left: 5px;
+      width: 12px;
+      height: 12px;
+    }
+    
+   
+    
+    .footer a {
+      color:white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .bottom-note {
+      font-size: 13px;
+      color: #333;
+      padding: 10px 20px;
+    }
+
+    .bottom-note a {
+      color: #6a1a40;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .footer {
+       width: 650px;
+      margin: 50px auto;
+      background-color: #660033;
+      text-align: justify;
+      color: #fff;
+      margin-top: 0;
+     }
+    
+
+
+
+   
+    
+
+   
